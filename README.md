@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I working with Peloton Technologies Inc, the fintech one. As UI/UX I fall mostly in HTML, CSS, JS worlds. Though I'll do a few lines here and there of C#. Other languages I've worked with are PHP ( of course ) & Python.
+I work at Peloton Technologies Inc, the fintech one. As UI/UX I fall mostly in HTML, CSS, JS worlds. Though I'll do a few lines here and there of C#. Other languages I've worked with are PHP ( of course ) & Python.
 
 #### Other
 
